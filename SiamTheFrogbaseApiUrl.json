@@ -1,18 +1,18 @@
 {
-  "Pexels": {
-    "apiUrl": "https://api.pexels.com/videos/search?query=",
-    "apiKey": "DQDIImRX5dY99lv9JdCw9VFZ7b8T2OzqPlB8wxWRY7OCdcnI45QTtsZa"
+  "pixelApi": {
+    "url": "siam",
+    "apikey": "DQDIImRX5dY99lv9JdCw9VFZ7b8T2OzqPlB8wxWRY7OCdcnI45QTtsZa"
   },
-  "AnimeHot": {
-    "apiUrl": "https://api.waifu.pics/sfw/waifu"
+  "animeHotApi": {
+    "url": "https://api.waifu.pics/sfw/waifu"
   },
-  "AnimeInfo": {
-    "apiUrl": "https://kitsu.io/api/edge/characters"
+  "animeInfoApi": {
+    "url": "https://kitsu.io/api/edge/characters"
   },
-  "Create": {
-    "apiUrl": "https://www.samirxpikachu.run.place/mageDef?prompt="
+  "mageApi": {
+    "url": "https://www.samirxpikachu.run.place/mageDef"
   },
-  "Gen": {
-    "apiUrl": "https://team-calyx.onrender.com/gen?prompt="
+  "genApi": {
+    "url": "https://team-calyx.onrender.com/gen"
   }
 }
